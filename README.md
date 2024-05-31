@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there 👋
+
+hi! i'm cole — a software engineer based in Houston, Texas
+
+# note!! ‼️ this is my new account (my previous account — https://github.com/colemujadzic, will no longer see any updates / contributions!) ‼️
 
 <!--
 **cmujadzic/cmujadzic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
